@@ -8,7 +8,7 @@ https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 # Data Cleaning
 
-# DashBoard Snippet
+# Power BI Dashboard Snippet
 
 <img src="https://github.com/JasonYao3/goodreads/blob/master/PowerBi%20snippet.JPG">
 
