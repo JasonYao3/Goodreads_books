@@ -1,7 +1,6 @@
 # Goodreads Data Analysis
 
-## Data set
-https://www.kaggle.com/jealousleopard/goodreadsbooks
+Data from: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 ## ER Diagram
 
