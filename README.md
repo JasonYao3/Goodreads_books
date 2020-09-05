@@ -1,6 +1,10 @@
 # Goodreads Data Analysis
 
+
+
 Data from: https://www.kaggle.com/jealousleopard/goodreadsbooks
+
+## Database Normalization
 
 ## ER Diagram
 ER Diagram that follows the data normalization technique.
