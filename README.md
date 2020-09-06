@@ -1,8 +1,6 @@
-# Goodreads Data Analysis
+# Goodreads Book Data Analysis
 
-
-
-Data from: https://www.kaggle.com/jealousleopard/goodreadsbooks
+Data obtained from: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 ## Database Normalization
 
