@@ -1,8 +1,10 @@
 # Goodreads Book Data Analysis
 
-Data obtained from: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
-## Database Normalization
+# Resource Used
+- Mysql 8.0
+- Microsoft Power BI
+- Data obtained from: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 ## ER Diagram
 ER Diagram that follows the data normalization technique.
