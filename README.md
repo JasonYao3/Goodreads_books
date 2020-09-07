@@ -3,7 +3,7 @@
 
 ## Overview
 - Analyzed ~11k Goodreads book data to help readers to choose the next book they want to read.
-- Followed data normalization techniques to create a Relational Database Management System.
+- Followed data normalization techniques, ETL skills to create a Relational Database Management System.
 - Wrote MySQL queries using: joins, group by, case when and subquery techniques. 
 - Created a PowerBi dashboard to showcase different metrics and graph visualizations.
 
