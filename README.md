@@ -15,4 +15,5 @@ ER Diagram that follows the data normalization technique.
 <img src= "https://github.com/JasonYao3/Goodreads_books/blob/master/PowerBI%20snippet.JPG">
 
 ## Interesting Insight
+- Twilight is the most commented and most rated book in this dataset.
 - people are generous to their ratings, 55% of the ratings are between 3 to 4 and 45% are above 4.
