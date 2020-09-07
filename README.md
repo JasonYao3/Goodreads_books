@@ -15,10 +15,10 @@
 ## ER Diagram
 ER Diagram that follows the data normalization technique.
 
-<img src="https://github.com/JasonYao3/goodreads/blob/master/Goodreads%20ER%20diagram.png" >
+<img src="https://github.com/JasonYao3/Goodreads_books/blob/master/Pictures/Goodreads%20ER%20Diagram.jpg" >
 
 ## Power BI Dashboard Snippet
-<img src= "https://github.com/JasonYao3/Goodreads_books/blob/master/PowerBI%20snippet.JPG">
+<img src= "https://github.com/JasonYao3/Goodreads_books/blob/master/Pictures/PowerBI%20snippet.JPG">
 
 ## Interesting Insight (according to this dataset)
 - Twilight is the most commented and most rated book, almost doubling the rating count of The Hobbit.
