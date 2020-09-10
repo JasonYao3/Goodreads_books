@@ -1,5 +1,5 @@
 # Goodreads Book Data Analysis
-- I started reading since my second year in university. Ever since then reading books has been a way to fullfill my curiosity of the world and 
+I started reading in my second year in university. Ever since then reading has been a way to fullfill my curiosity of the world. 
 
 ## Overview
 - Analyzed ~11k Goodreads book data to help readers to choose the next book they want to read.
