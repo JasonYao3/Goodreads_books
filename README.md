@@ -1,5 +1,5 @@
 # Goodreads Book Data Analysis
-"Goodreads is the world’s largest site for readers and book recommendations. Their mission is to help people find and share books they love."
+"Goodreads is the world’s largest site for readers and book recommendations. Their mission is to help people find and share books they love." - Goodreads
 
 ## Overview
 - Analyzed ~11k Goodreads book data to help readers to choose the next book they want to read.
